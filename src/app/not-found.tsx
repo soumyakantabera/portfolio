@@ -12,7 +12,7 @@ export default function NotFound() {
           The page you're looking for doesn't exist.
         </p>
         <a
-          href="/portfolio/"
+          href="/"
           className="inline-block px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg font-medium transition-colors shadow-material-2 hover:shadow-material-3"
         >
           Go Home
